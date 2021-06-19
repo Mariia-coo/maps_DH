@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "Бабушкинская_Kwasten met de Gasten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.686474323272705,
+          55.87337272357378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "поп-арт от Squad 310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68734872341156,
+          55.8739565749848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "осьминог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68867909908295,
+          55.87420786915263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d31d1d",
+        "stroke-width": 2,
+        "stroke-opacity": 2,
+        "fill": "#d31d1d",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.67016112804413,
+              55.82491258016849
+            ],
+            [
+              37.66987144947052,
+              55.82411102858625
+            ],
+            [
+              37.67034351825714,
+              55.82406281443066
+            ],
+            [
+              37.67064392566681,
+              55.824852313706415
+            ],
+            [
+              37.67016112804413,
+              55.82491258016849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1d9631",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1d9631",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.62512147426605,
+              55.82270978032272
+            ],
+            [
+              37.62517511844635,
+              55.82270978032272
+            ],
+            [
+              37.62517511844635,
+              55.82324617809328
+            ],
+            [
+              37.62512147426605,
+              55.82324617809328
+            ],
+            [
+              37.62512147426605,
+              55.82270978032272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d22828",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67037034034729,
+          55.82447263284849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2dd256",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "21 shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62513756752014,
+          55.82289360286356
+        ]
+      }
+    }
+  ]
+}
