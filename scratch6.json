@@ -1,0 +1,555 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "Бабушкинская_Kwasten met de Gasten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.686474323272705,
+          55.87337272357378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "поп-арт от Squad 310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68734872341156,
+          55.8739565749848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "осьминог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68867909908295,
+          55.87420786915263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d31d1d",
+        "stroke-width": 2,
+        "stroke-opacity": 2,
+        "fill": "#d31d1d",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.67016112804413,
+              55.82491258016849
+            ],
+            [
+              37.66987144947052,
+              55.82411102858625
+            ],
+            [
+              37.67034351825714,
+              55.82406281443066
+            ],
+            [
+              37.67064392566681,
+              55.824852313706415
+            ],
+            [
+              37.67016112804413,
+              55.82491258016849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1d9631",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1d9631",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.62512147426605,
+              55.82270978032272
+            ],
+            [
+              37.62517511844635,
+              55.82270978032272
+            ],
+            [
+              37.62517511844635,
+              55.82324617809328
+            ],
+            [
+              37.62512147426605,
+              55.82324617809328
+            ],
+            [
+              37.62512147426605,
+              55.82270978032272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d22828",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "writing by Kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67037034034729,
+          55.82447263284849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2dd256",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "21 shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62513756752014,
+          55.82289360286356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ea1abd",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#e217bd",
+        "fill-opacity": 0.5,
+        "label": "Флакон"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.58602023124695,
+              55.80607175137518
+            ],
+            [
+              37.58420169353485,
+              55.80581247943078
+            ],
+            [
+              37.58463084697723,
+              55.804507049104586
+            ],
+            [
+              37.5866425037384,
+              55.804871850438836
+            ],
+            [
+              37.58602023124695,
+              55.80607175137518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8b0980",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "опитическая иллюзия by Kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.585481107234955,
+          55.80468492786814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8b0980",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "П"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.58587673306465,
+          55.804767837183654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e51818",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#e51818",
+        "fill-opacity": 0.5,
+        "label": "bombing у Савёловского вокзала"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.58790850639343,
+              55.79209272213038
+            ],
+            [
+              37.58768856525421,
+              55.790919533952675
+            ],
+            [
+              37.59024739265442,
+              55.79101604433972
+            ],
+            [
+              37.58945345878601,
+              55.792086690404936
+            ],
+            [
+              37.58790850639343,
+              55.79209272213038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1ea439",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2dd256",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.59206861257553,
+              55.779727231498406
+            ],
+            [
+              37.59250581264496,
+              55.77948437674152
+            ],
+            [
+              37.59252995252609,
+              55.779505494606575
+            ],
+            [
+              37.592082023620605,
+              55.77973779036656
+            ],
+            [
+              37.59206861257553,
+              55.779727231498406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#21b526",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.592350244522095,
+          55.77957488179678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1ea439",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2dd256",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.60046392679214,
+              55.774272439417636
+            ],
+            [
+              37.60053902864456,
+              55.774219637643995
+            ],
+            [
+              37.60059267282486,
+              55.774261879068646
+            ],
+            [
+              37.60052025318146,
+              55.77430864630678
+            ],
+            [
+              37.60046392679214,
+              55.774272439417636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#29b526",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "writing by Go Vegas, ВТК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.600557804107666,
+          55.77424377560653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d31d1d",
+        "stroke-width": 2,
+        "stroke-opacity": 2,
+        "fill": "#d31d1d",
+        "fill-opacity": 0.5,
+        "label": "Район Воротниковского и Дегтярного переулков"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.599323987960815,
+              55.77070136973303
+            ],
+            [
+              37.60150194168091,
+              55.76773805383377
+            ],
+            [
+              37.606050968170166,
+              55.76802775656465
+            ],
+            [
+              37.60439872741699,
+              55.77227648262155
+            ],
+            [
+              37.59927034378052,
+              55.770767755085814
+            ],
+            [
+              37.599323987960815,
+              55.77070136973303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea1a1a",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "ЗАЧЕМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60223150253296,
+          55.770496177927754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#24c229",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2dd256",
+        "fill-opacity": 0.5,
+        "label": "hall of fame Поварская, 14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.596939504146576,
+              55.7543218561723
+            ],
+            [
+              37.59756177663803,
+              55.75413016276355
+            ],
+            [
+              37.59758323431014,
+              55.75416035076445
+            ],
+            [
+              37.596944868564606,
+              55.75435053463276
+            ],
+            [
+              37.596939504146576,
+              55.7543218561723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24b521",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "writing Абсурд-мафия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59701192378998,
+          55.75431279981199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#2dd256",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2dd256",
+        "fill-opacity": 0.5,
+        "label": "стена в Малом Козихинском"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.596305161714554,
+              55.7647813031213
+            ],
+            [
+              37.5963132083416,
+              55.76476244076136
+            ],
+            [
+              37.59682282805443,
+              55.764955590895575
+            ],
+            [
+              37.5968000292778,
+              55.764979734595066
+            ],
+            [
+              37.596305161714554,
+              55.7647813031213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2dd256",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "tagging by NAMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596525102853775,
+          55.76484543507689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ddec0e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "супрематизм Алексея Луки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62546479701996,
+          55.77626829400568
+        ]
+      }
+    }
+  ]
+}
