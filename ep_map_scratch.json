@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "Бабушкинская_Kwasten met de Gasten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.686474323272705,
+          55.87337272357378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "поп-арт от Squad 310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68734872341156,
+          55.8739565749848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3314cc",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "label": "осьминог"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68867909908295,
+          55.87420786915263
+        ]
+      }
+    }
+  ]
+}
